@@ -4,6 +4,7 @@ BIOL74.03 Exercises
 This is a repository containing each of the exercises that are done for homework during each class
 
 Due Dates
+
   Journal 1 (ex 2-4): Mon 4/8 at 11:59 PM
   
   Journal 2 (ex 5–7): due Mon 4/22 at 11:59 PM
